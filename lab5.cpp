@@ -57,7 +57,7 @@ char op;
         case '-':
             cout << num1 - num2;
             break;
-            //// third 4
+            //// third 4: change 60
         case '*':
             cout << num1 * num2;
             break;
