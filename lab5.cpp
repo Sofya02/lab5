@@ -48,7 +48,7 @@ char op;
     cin >> op;
     cout << "Enter two operands: ";
     cin >> num1 >> num2;
-    // third 2
+    // third 2: change 51
     switch (op) {
         case '+':
             cout << num1 + num2;
