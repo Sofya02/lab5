@@ -27,7 +27,7 @@ int main() {
 		
         //////////// second area ////////////
         cout << "Roots are real and same." << endl;
-        // second 1
+        // second 1: change 30
         cout << "Root 1 = Root 2 = " << root1 << endl;
         // second 2
     } else {
