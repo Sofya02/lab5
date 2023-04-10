@@ -44,7 +44,7 @@ char op;
     //////////// third area ////////////
     double num1, num2;
     cout << "Enter operator either + or - or * or /: ";
-    // third 1
+    // third 1: change 47
     cin >> op;
     cout << "Enter two operands: ";
     cin >> num1 >> num2;
