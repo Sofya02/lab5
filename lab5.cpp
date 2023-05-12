@@ -21,7 +21,7 @@ int main() {
         cout << "Root 1 = " << root1 << endl;
         cout << "Root 2 = " << root2 << endl;
         // main 4: change 23
-    } else if (discriminant == 0) {
+    } else if (discriminant == 5) //conflict situation
             // main 5
         root1 = -b / (2 * a);
 		
