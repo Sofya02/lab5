@@ -67,7 +67,7 @@ char op;
             break;
             // third 5
         default:
-            cout << "Error! operator is not correct";
+            cout << "Error!";//conflict situation
             break;
     }
 
